@@ -34,6 +34,10 @@ An interactive quiz application for creating, managing, and participating in qui
 ![image](https://github.com/user-attachments/assets/4653e2fd-ce81-4f22-aeee-dd726c81c925)
 ![image](https://github.com/user-attachments/assets/4342ec37-eca8-4764-be2e-fc3cdb87692f)
 
+## Overview
+
+Quiz Master is a web-based platform that allows users to create, manage, and participate in quizzes. The application provides an interactive environment with various features such as user authentication, quiz creation, sharing, participation, feedback, and leaderboard functionalities.
+
 ## Features
 
 - **User Authentication:** Secure user authentication with JWT.
