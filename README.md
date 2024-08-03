@@ -43,6 +43,7 @@ Quiz Master is a web-based platform that allows users to create, manage, and par
 - **User Authentication:** Secure user authentication with JWT.
 - **Create Quizzes:** Users can create quizzes with multiple-choice questions.
 - **Share and Join Quizzes:** Users can share quiz codes with others to join the quiz.
+- **Lock/Unlock Quiz:** Authors can lock or unlock their quizzes. Locked quizzes cannot be attempted by others.
 - **Feedback and Ratings:** Users can submit feedback and star ratings for quizzes they have attempted.
 - **Review and Leaderboard:** Users can review questions and answers of attempted quizzes and view leaderboard results.
 - **View Created Quizzes:** Users can view the questions and answers of the quizzes they have created.
