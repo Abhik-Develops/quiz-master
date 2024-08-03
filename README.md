@@ -81,7 +81,7 @@ Quiz Master is a web-based platform that allows users to create, manage, and par
 
 3. Set up environment variables:
 
-   Create a `.env` file in the `backend` directory and add the following:
+   Create a `.env` file in the `root` directory and add the following:
 
      ```env
     PORT=8000
