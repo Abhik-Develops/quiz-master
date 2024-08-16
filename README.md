@@ -4,6 +4,9 @@ An interactive quiz application for creating, managing, and participating in qui
 
 ## Live Demo: https://quiz-master-8vww.onrender.com/
 
+- Email: guest@example.com
+- Password: 12345
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/6b9bc286-126b-4776-aa79-fdf9664c02b1)
